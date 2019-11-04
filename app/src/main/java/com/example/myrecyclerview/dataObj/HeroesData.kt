@@ -1,4 +1,7 @@
-package com.example.myrecyclerview
+package com.example.myrecyclerview.dataObj
+
+import com.example.myrecyclerview.pojo.Hero
+import com.example.myrecyclerview.R
 
 
 object HeroesData {
@@ -36,7 +39,8 @@ object HeroesData {
             R.drawable.sudirman,
             R.drawable.sukarno,
             R.drawable.supomo,
-            R.drawable.tan_malaka)
+            R.drawable.tan_malaka
+        )
 
         val listData: ArrayList<Hero>
             get() {

@@ -6,7 +6,9 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.myrecyclerview.adapter.ListHeroAdapter
+import com.example.myrecyclerview.adapterList.ListHeroAdapter
+import com.example.myrecyclerview.dataObj.HeroesData
+import com.example.myrecyclerview.pojo.Hero
 
 class MainActivity : AppCompatActivity() {
 

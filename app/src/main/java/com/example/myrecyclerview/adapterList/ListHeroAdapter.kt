@@ -1,4 +1,4 @@
-package com.example.myrecyclerview.adapter
+package com.example.myrecyclerview.adapterList
 
 import android.view.LayoutInflater
 import android.view.View
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.example.myrecyclerview.Hero
+import com.example.myrecyclerview.pojo.Hero
 import com.example.myrecyclerview.R
 
 
