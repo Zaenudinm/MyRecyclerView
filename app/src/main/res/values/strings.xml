@@ -7,4 +7,8 @@
     <string name="action_lis">List</string>
     <string name="action_grid">Grid</string>
     <string name="action_card">With CardView</string>
+
+    <string name="favorit">favorite</string>
+    <string name="bagi">share</string>
+
 </resources>
